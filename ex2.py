@@ -2,10 +2,10 @@ import random
 cont=1
 while cont==1:
     dice=[1,2,3,4,5,6]
-    res = random.randint(dice[0], dice[5])
-    print 'The result id',res
+    res = random.randint(1,6)
+    print 'The result is',res
     print 'Would you like to play again'
-    s = raw_input()
+    s = raw_input('yes/no\n')
     if s =='yes':
         cont=0
     elif s=='no' :
