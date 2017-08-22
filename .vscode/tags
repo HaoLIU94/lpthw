@@ -1,0 +1,248 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BDTB	../scrapy/chatbar.py	/^class BDTB:$/;"	kind:class	line:35
+BeautifulSoup.py	../BeautifulSoup.py	1;"	kind:file	line:1
+DOMTree	../exos/xml_dom.py	/^DOMTree = xml.dom.minidom.parse("movies.xml")$/;"	kind:variable	line:16
+Handler	../exos/xml_sax.py	/^   Handler = MovieHandler()$/;"	kind:variable	line:71
+MovieHandler	../exos/xml_sax.py	/^class MovieHandler( xml.sax.ContentHandler ):$/;"	kind:class	line:5
+QSBK	../scrapy/baike.py	/^class QSBK:$/;"	kind:class	line:9
+SUM(R,G,B).py	../exos/SUM(R,G,B).py	1;"	kind:file	line:1
+Spider	../scrapy/spider.py	/^class Spider:$/;"	kind:class	line:10
+Throttle	../web_scraping/zhihu.py	/^class Throttle:$/;"	kind:class	line:62
+Tool	../scrapy/chatbar.py	/^class Tool:$/;"	kind:class	line:7
+Tool	../scrapy/tool.py	/^class Tool:$/;"	kind:class	line:5
+__init__	../exos/xml_sax.py	/^   def __init__(self):$/;"	kind:member	line:6
+__init__	../scrapy/baike.py	/^    def __init__(self):$/;"	kind:member	line:12
+__init__	../scrapy/chatbar.py	/^    def __init__(self,baseUrl,seeLZ,floorTag):$/;"	kind:member	line:38
+__init__	../scrapy/spider.py	/^    def __init__(self):$/;"	kind:member	line:13
+__init__	../web_scraping/zhihu.py	/^    def __init__(self, delay):$/;"	kind:member	line:65
+a	../exos/ex1.py	/^a = 1$/;"	kind:variable	line:65
+acc	../resources/game.py	/^acc=[0,0]$/;"	kind:variable	line:16
+accuracy	../resources/game.py	/^        accuracy=0$/;"	kind:variable	line:180
+accuracy	../resources/game.py	/^        accuracy=acc[0]*1.0\/acc[1]*100$/;"	kind:variable	line:178
+adjective1	../exos/ex4.py	/^adjective1 = raw_input("Tell me an adjective, and click enter. ")$/;"	kind:variable	line:1
+adjective2	../exos/ex4.py	/^adjective2 = raw_input("Tell me an another adjective, and click enter. ")$/;"	kind:variable	line:4
+angle	../resources/game.py	/^    angle = math.atan2(position[1]-(playerpos[1]+32),position[0]-(playerpos[0]+26))$/;"	kind:variable	line:63
+arrow	../resources/game.py	/^arrow = pygame.image.load("resources\/images\/bullet.png")$/;"	kind:variable	line:28
+arrow1	../resources/game.py	/^            arrow1 = pygame.transform.rotate(arrow, 360-projectile[0]*57.29)$/;"	kind:variable	line:78
+arrows	../resources/game.py	/^arrows=[]$/;"	kind:variable	line:17
+b	../exos/ex1.py	/^b = 20$/;"	kind:variable	line:66
+badguyimg	../resources/game.py	/^badguyimg=badguyimg1$/;"	kind:variable	line:30
+badguyimg1	../resources/game.py	/^badguyimg1 = pygame.image.load("resources\/images\/badguy.png")$/;"	kind:variable	line:29
+badguys	../resources/game.py	/^badguys=[[640,100]]$/;"	kind:variable	line:20
+badrect	../resources/game.py	/^        badrect=pygame.Rect(badguyimg.get_rect())$/;"	kind:variable	line:94
+badtimer	../resources/game.py	/^        badtimer=100-(badtimer1*2)$/;"	kind:variable	line:83
+badtimer	../resources/game.py	/^badtimer=100$/;"	kind:variable	line:18
+badtimer1	../resources/game.py	/^            badtimer1=35$/;"	kind:variable	line:85
+badtimer1	../resources/game.py	/^badtimer1=0$/;"	kind:variable	line:19
+baike.py	../scrapy/baike.py	1;"	kind:file	line:1
+baseURL	../scrapy/chatbar.py	/^baseURL = 'http:\/\/tieba.baidu.com\/p\/' + str(raw_input(u'http:\/\/tieba.baidu.com\/p\/'))$/;"	kind:variable	line:143
+bdtb	../scrapy/chatbar.py	/^bdtb = BDTB(baseURL,seeLZ,floorTag)$/;"	kind:variable	line:146
+bmw.py	../scrapy/bmw.py	1;"	kind:file	line:1
+bullrect	../resources/game.py	/^            bullrect=pygame.Rect(arrow.get_rect())$/;"	kind:variable	line:104
+cal	../exos/ex1.py	/^cal = calendar.month(2008, 1)$/;"	kind:variable	line:153
+cars	../exos/ex1.py	/^cars=100$/;"	kind:variable	line:16
+castle	../resources/game.py	/^castle = pygame.image.load("resources\/images\/castle.png")$/;"	kind:variable	line:27
+characters	../exos/xml_sax.py	/^   def characters(self, content):$/;"	kind:member	line:40
+chatbar.py	../scrapy/chatbar.py	1;"	kind:file	line:1
+close	../exos/ex1.py	/^close =int(raw_input());$/;"	kind:variable	line:214
+collection	../exos/xml_dom.py	/^collection = DOMTree.documentElement$/;"	kind:variable	line:17
+cont	../exos/ex2.py	/^        cont=0$/;"	kind:variable	line:10
+cont	../exos/ex2.py	/^        cont=1$/;"	kind:variable	line:12
+cont	../exos/ex2.py	/^cont=1$/;"	kind:variable	line:2
+content	../exos/ex1.py	/^content = dir(math)$/;"	kind:variable	line:187
+count	../exos/ex1.py	/^   count = count + 1$/;"	kind:variable	line:77
+count	../exos/ex1.py	/^   count = count + 1$/;"	kind:variable	line:91
+count	../exos/ex1.py	/^count = 0$/;"	kind:variable	line:74
+count	../exos/ex1.py	/^count = 0$/;"	kind:variable	line:88
+counter	../exos/ex1.py	/^counter = 100          # An integer assignment$/;"	kind:variable	line:30
+crawl_sitemap	../web_scraping/download_iteration.py	/^def crawl_sitemap(url):$/;"	kind:function	line:27
+data	../BeautifulSoup.py	/^data = []$/;"	kind:variable	line:10
+data	../scrapy/demo.py	/^data = urllib.urlencode(values) $/;"	kind:variable	line:8
+demo.py	../scrapy/demo.py	1;"	kind:file	line:1
+description	../exos/xml_dom.py	/^   description = movie.getElementsByTagName('description')[0]$/;"	kind:variable	line:36
+dice	../exos/ex2.py	/^    dice=[1,2,3,4,5,6]$/;"	kind:variable	line:4
+download	../web_scraping/download_iteration.py	/^def download(url,user_agent='wswp',num_retries=2):$/;"	kind:function	line:11
+download	../web_scraping/zhihu.py	/^def download(url, headers, proxy, num_retries, data=None):$/;"	kind:function	line:82
+download_iteration.py	../web_scraping/download_iteration.py	1;"	kind:file	line:1
+endElement	../exos/xml_sax.py	/^   def endElement(self, tag):$/;"	kind:member	line:24
+enemy	../resources/game.py	/^enemy = pygame.mixer.Sound("resources\/audio\/enemy.wav")$/;"	kind:variable	line:37
+euro_to_yuan.py	../euro_to_yuan.py	1;"	kind:file	line:1
+ex1.py	../exos/ex1.py	1;"	kind:file	line:1
+ex2.py	../exos/ex2.py	1;"	kind:file	line:1
+ex3.py	../exos/ex3.py	1;"	kind:file	line:1
+ex4.py	../exos/ex4.py	1;"	kind:file	line:1
+ex5.py	../exos/ex5.py	1;"	kind:file	line:1
+ex6.py	../exos/ex6.py	1;"	kind:file	line:1
+exitcode	../resources/game.py	/^        exitcode=0$/;"	kind:variable	line:176
+exitcode	../resources/game.py	/^        exitcode=1$/;"	kind:variable	line:173
+exitcode	../resources/game.py	/^exitcode = 0$/;"	kind:variable	line:48
+fid	../exos/xml_dom.py	/^fid = fo.fileno()$/;"	kind:variable	line:10
+fid	../exos/xml_sax.py	/^   fid = fo.fileno()$/;"	kind:variable	line:65
+floorTag	../scrapy/chatbar.py	/^floorTag = raw_input("是否写入楼层信息，是输入1，否输入0\\n")$/;"	kind:variable	line:145
+fo	../exos/ex1.py	/^fo = open("foo.dat", "r+")$/;"	kind:variable	line:207
+fo	../exos/xml_dom.py	/^fo = open("xml_dom.txt", "w")$/;"	kind:variable	line:8
+fo	../exos/xml_sax.py	/^   fo = open("xml_sax.txt", "w")$/;"	kind:variable	line:63
+font	../resources/game.py	/^    font = pygame.font.Font(None, 24)$/;"	kind:variable	line:118
+font	../resources/game.py	/^    font = pygame.font.Font(None, 24)$/;"	kind:variable	line:184
+font	../resources/game.py	/^    font = pygame.font.Font(None, 24)$/;"	kind:variable	line:193
+format	../exos/xml_dom.py	/^   format = movie.getElementsByTagName('format')[0]$/;"	kind:variable	line:32
+fruits	../exos/ex1.py	/^fruits = ['banana', 'apple',  'mango']$/;"	kind:variable	line:104
+fruits	../exos/ex1.py	/^fruits = ['banana', 'apple',  'mango']$/;"	kind:variable	line:110
+game.py	../resources/game.py	1;"	kind:file	line:1
+gameover	../resources/game.py	/^gameover = pygame.image.load("resources\/images\/gameover.png")$/;"	kind:variable	line:33
+getAllImg	../scrapy/spider.py	/^    def getAllImg(self,page):$/;"	kind:member	line:46
+getBrief	../scrapy/spider.py	/^    def getBrief(self,page):$/;"	kind:member	line:40
+getContent	../scrapy/chatbar.py	/^    def getContent(self,page):$/;"	kind:member	line:91
+getContents	../scrapy/spider.py	/^    def getContents(self,pageIndex):$/;"	kind:member	line:25
+getDetailPage	../scrapy/spider.py	/^    def getDetailPage(self,infoURL):$/;"	kind:member	line:35
+getOneStory	../scrapy/baike.py	/^    def getOneStory(self,pageStories,page):$/;"	kind:member	line:76
+getPage	../scrapy/baike.py	/^    def getPage(self,pageIndex):$/;"	kind:member	line:22
+getPage	../scrapy/chatbar.py	/^    def getPage(self,pageNum):$/;"	kind:member	line:55
+getPage	../scrapy/spider.py	/^    def getPage(self,pageIndex):$/;"	kind:member	line:18
+getPageItems	../scrapy/baike.py	/^    def getPageItems(self,pageIndex):$/;"	kind:member	line:40
+getPageNum	../scrapy/chatbar.py	/^    def getPageNum(self,page):$/;"	kind:member	line:81
+getTitle	../scrapy/chatbar.py	/^    def getTitle(self,page):$/;"	kind:member	line:70
+get_links	../web_scraping/links.py	/^def get_links(html):$/;"	kind:function	line:20
+get_links	../web_scraping/zhihu.py	/^def get_links(html):$/;"	kind:function	line:128
+get_robots	../web_scraping/zhihu.py	/^def get_robots(url):$/;"	kind:function	line:119
+geturl	../scrapy/demo.py	/^geturl = url + "?"+data$/;"	kind:variable	line:10
+google.py	../scrapy/google.py	1;"	kind:file	line:1
+grass	../resources/game.py	/^grass = pygame.image.load("resources\/images\/grass.png")$/;"	kind:variable	line:26
+guess	../exos/ex3.py	/^        guess=int(input('Input your guess\\n'))$/;"	kind:variable	line:8
+health	../resources/game.py	/^health = pygame.image.load("resources\/images\/health.png")$/;"	kind:variable	line:32
+healthbar	../resources/game.py	/^healthbar = pygame.image.load("resources\/images\/healthbar.png")$/;"	kind:variable	line:31
+healthvalue	../resources/game.py	/^healthvalue=194$/;"	kind:variable	line:21
+hit	../resources/game.py	/^hit = pygame.mixer.Sound("resources\/audio\/explode.wav")$/;"	kind:variable	line:36
+html	../web_scraping/download_iteration.py	/^    html = download(url)$/;"	kind:variable	line:44
+html	../web_scraping/td_tag.py	/^html = download(url)$/;"	kind:variable	line:4
+index	../resources/game.py	/^        index=0$/;"	kind:variable	line:69
+index	../resources/game.py	/^    index=0$/;"	kind:variable	line:88
+index1	../resources/game.py	/^        index1=0$/;"	kind:variable	line:102
+j	../exos/ex1.py	/^         j=num\/i          #to calculate the second factor$/;"	kind:variable	line:119
+keys	../resources/game.py	/^keys = [False, False, False, False]$/;"	kind:variable	line:14
+keyword	../scrapy/google.py	/^        keyword = 'test'$/;"	kind:variable	line:25
+keyword	../scrapy/google.py	/^        keyword = sys.argv[1]$/;"	kind:variable	line:23
+link_crawler	../web_scraping/links.py	/^def link_crawler(seed_url, link_regex):$/;"	kind:function	line:4
+link_crawler	../web_scraping/zhihu.py	/^def link_crawler(seed_url, link_regex=None, delay=5, max_depth=-1, max_urls=-1, headers=None, user_agent='wswp', proxy=None, num_retries=1):$/;"	kind:function	line:13
+links.py	../web_scraping/links.py	1;"	kind:file	line:1
+list	../exos/ex1.py	/^list = [ 'abcd', 786 , 2.23, 'john', 70.2  ]$/;"	kind:variable	line:61
+list	../exos/ex1.py	/^list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]$/;"	kind:variable	line:50
+list	../exos/ex1.py	/^list = [1, 2, 3, 4, 5 ];$/;"	kind:variable	line:67
+loadPage	../scrapy/baike.py	/^    def loadPage(self):$/;"	kind:member	line:63
+load_images	../exos/SUM(R,G,B).py	/^def load_images(folder,image):$/;"	kind:function	line:9
+main	../exos/SUM(R,G,B).py	/^def main():$/;"	kind:function	line:26
+main	../scrapy/bmw.py	/^def main():$/;"	kind:function	line:7
+miles	../exos/ex1.py	/^miles   = 1000.0       # A floating point$/;"	kind:variable	line:31
+mkdir	../scrapy/spider.py	/^    def mkdir(self,path):$/;"	kind:member	line:94
+movies	../exos/xml_dom.py	/^movies = collection.getElementsByTagName("movie")$/;"	kind:variable	line:22
+name	../BeautifulSoup.py	/^        name = name_box.text.strip()$/;"	kind:variable	line:17
+name	../exos/ex1.py	/^name    = "John"       # A string$/;"	kind:variable	line:32
+name_box	../BeautifulSoup.py	/^        name_box = soup.find('div',attrs={'class':'ticker'})$/;"	kind:variable	line:16
+normalize	../web_scraping/zhihu.py	/^def normalize(seed_url, link):$/;"	kind:function	line:106
+noun1	../exos/ex4.py	/^noun1 = raw_input("Tell me a noun (plural), and click enter. ")$/;"	kind:variable	line:2
+noun2	../exos/ex4.py	/^noun2 = raw_input("Tell me another noun, and click enter. ")$/;"	kind:variable	line:3
+num	../exos/ex3.py	/^    num=random.randint(0,100)$/;"	kind:variable	line:4
+pad	../exos/ex6.py	/^pad = curses.newpad(100, 100)$/;"	kind:variable	line:30
+page	../BeautifulSoup.py	/^        page = urllib2.urlopen(pg)$/;"	kind:variable	line:13
+parser	../exos/xml_sax.py	/^   parser = xml.sax.make_parser()$/;"	kind:variable	line:57
+pg	../euro_to_yuan.py	/^        pg = urllib2.urlopen(page)$/;"	kind:variable	line:12
+player	../resources/game.py	/^player = pygame.image.load("resources\/images\/dude.png")$/;"	kind:variable	line:25
+playerpos	../resources/game.py	/^playerpos=[100,100]$/;"	kind:variable	line:15
+playerpos1	../resources/game.py	/^    playerpos1 = (playerpos[0]-playerrot.get_rect().width\/2, playerpos[1]-playerrot.get_rect().height\/2)$/;"	kind:variable	line:65
+playerrot	../resources/game.py	/^    playerrot = pygame.transform.rotate(player, 360-angle*57.29)$/;"	kind:variable	line:64
+position	../resources/game.py	/^            position=pygame.mouse.get_pos()$/;"	kind:variable	line:156
+position	../resources/game.py	/^    position = pygame.mouse.get_pos()$/;"	kind:variable	line:62
+price	../BeautifulSoup.py	/^        price = price_box.text$/;"	kind:variable	line:20
+price	../euro_to_yuan.py	/^        price = price_box.text$/;"	kind:variable	line:16
+price_box	../BeautifulSoup.py	/^        price_box = soup.find('div',attrs={'class':'price'})$/;"	kind:variable	line:19
+price_box	../euro_to_yuan.py	/^        price_box = soup.find('span',attrs={'class':'uccResultAmount'})$/;"	kind:variable	line:15
+printinfo	../exos/ex1.py	/^def printinfo( arg1, *vartuple ):$/;"	kind:function	line:174
+printinfo	../exos/ex1.py	/^def printinfo( name, age ):$/;"	kind:function	line:165
+printme	../exos/ex1.py	/^def printme( str ):$/;"	kind:function	line:157
+quote_page	../BeautifulSoup.py	/^quote_page = ['http:\/\/www.bloomberg.com\/quote\/SPX:IND',$/;"	kind:variable	line:7
+rating	../exos/xml_dom.py	/^   rating = movie.getElementsByTagName('rating')[0]$/;"	kind:variable	line:34
+removeAddr	../scrapy/chatbar.py	/^    removeAddr = re.compile('<a.*?>|<\/a>')$/;"	kind:variable	line:11
+removeAddr	../scrapy/tool.py	/^    removeAddr = re.compile('<a.*?>|<\/a>')$/;"	kind:variable	line:9
+removeExtraTag	../scrapy/chatbar.py	/^    removeExtraTag = re.compile('<.*?>')$/;"	kind:variable	line:21
+removeExtraTag	../scrapy/tool.py	/^    removeExtraTag = re.compile('<.*?>')$/;"	kind:variable	line:17
+removeImg	../scrapy/chatbar.py	/^    removeImg = re.compile('<img.*?>| {7}|')$/;"	kind:variable	line:9
+removeImg	../scrapy/tool.py	/^    removeImg = re.compile('<img.*?>| {1,7}|&nbsp;')$/;"	kind:variable	line:7
+removeNoneLine	../scrapy/tool.py	/^    removeNoneLine = re.compile('\\n+')$/;"	kind:variable	line:19
+replace	../scrapy/chatbar.py	/^    def replace(self,x):$/;"	kind:member	line:22
+replace	../scrapy/tool.py	/^    def replace(self,x):$/;"	kind:member	line:20
+replaceBR	../scrapy/chatbar.py	/^    replaceBR = re.compile('<br><br>|<br>')$/;"	kind:variable	line:19
+replaceBR	../scrapy/tool.py	/^    replaceBR = re.compile('<br><br>|<br>')$/;"	kind:variable	line:15
+replaceLine	../scrapy/chatbar.py	/^    replaceLine = re.compile('<tr>|<div>|<\/div>|<\/p>')$/;"	kind:variable	line:13
+replaceLine	../scrapy/tool.py	/^    replaceLine = re.compile('<tr>|<div>|<\/div>|<\/p>')$/;"	kind:variable	line:11
+replacePara	../scrapy/chatbar.py	/^    replacePara = re.compile('<p.*?>')$/;"	kind:variable	line:17
+replaceTD	../scrapy/chatbar.py	/^    replaceTD= re.compile('<td>')$/;"	kind:variable	line:15
+replaceTD	../scrapy/tool.py	/^    replaceTD= re.compile('<td>')$/;"	kind:variable	line:13
+request	../scrapy/demo.py	/^request = urllib2.Request(geturl)$/;"	kind:variable	line:11
+res	../exos/ex2.py	/^    res = random.randint(1,6)$/;"	kind:variable	line:5
+response	../scrapy/demo.py	/^response = urllib2.urlopen(request)$/;"	kind:variable	line:12
+running	../resources/game.py	/^        running=0$/;"	kind:variable	line:172
+running	../resources/game.py	/^        running=0$/;"	kind:variable	line:175
+running	../resources/game.py	/^running = 1$/;"	kind:variable	line:47
+s	../exos/ex2.py	/^    s = raw_input('yes\/no\\n')$/;"	kind:variable	line:8
+same_domain	../web_scraping/zhihu.py	/^def same_domain(url1, url2):$/;"	kind:function	line:113
+saveBrief	../scrapy/spider.py	/^    def saveBrief(self,content,name):$/;"	kind:member	line:77
+saveIcon	../scrapy/spider.py	/^    def saveIcon(self,iconURL,name):$/;"	kind:member	line:70
+saveImg	../scrapy/spider.py	/^    def saveImg(self,imageURL,fileName):$/;"	kind:member	line:85
+saveImgs	../scrapy/spider.py	/^    def saveImgs(self,images,name):$/;"	kind:member	line:57
+savePageInfo	../scrapy/spider.py	/^    def savePageInfo(self,pageIndex):$/;"	kind:member	line:113
+savePagesInfo	../scrapy/spider.py	/^    def savePagesInfo(self,start,end):$/;"	kind:member	line:138
+screen	../resources/game.py	/^screen=pygame.display.set_mode((width, height))$/;"	kind:variable	line:13
+search	../scrapy/google.py	/^def search(keyword):$/;"	kind:function	line:9
+seeLZ	../scrapy/chatbar.py	/^seeLZ = raw_input("是否只获取楼主发言，是输入1，否输入0\\n")$/;"	kind:variable	line:144
+setFileTitle	../scrapy/chatbar.py	/^    def setFileTitle(self,title):$/;"	kind:member	line:102
+shoot	../resources/game.py	/^shoot = pygame.mixer.Sound("resources\/audio\/shoot.wav")$/;"	kind:variable	line:38
+soup	../BeautifulSoup.py	/^        soup = BeautifulSoup(page,'html.parser')$/;"	kind:variable	line:15
+soup	../euro_to_yuan.py	/^        soup = BeautifulSoup(pg,'html.parser')$/;"	kind:variable	line:14
+space_in_a_car	../exos/ex1.py	/^space_in_a_car = 4.0$/;"	kind:variable	line:17
+spider	../scrapy/baike.py	/^spider = QSBK()$/;"	kind:variable	line:110
+spider	../scrapy/spider.py	/^spider = Spider()$/;"	kind:variable	line:145
+spider.py	../scrapy/spider.py	1;"	kind:file	line:1
+start	../scrapy/baike.py	/^    def start(self):$/;"	kind:member	line:90
+start	../scrapy/chatbar.py	/^    def start(self):$/;"	kind:member	line:119
+startElement	../exos/xml_sax.py	/^   def startElement(self, tag, attributes):$/;"	kind:member	line:16
+stdscr	../exos/ex6.py	/^stdscr = curses.initscr()$/;"	kind:variable	line:24
+step	../exos/ex3.py	/^    step=0$/;"	kind:variable	line:5
+str	../exos/ex1.py	/^str = "this is string example....wow!!!";$/;"	kind:variable	line:142
+str	../exos/ex1.py	/^str = 'Hello World!'$/;"	kind:variable	line:41
+str	../exos/ex1.py	/^str = input("Enter your input: ");$/;"	kind:variable	line:194
+string	../exos/ex1.py	/^string = 'Nihao'$/;"	kind:variable	line:19
+survivedtext	../resources/game.py	/^    survivedtext = font.render(str((90000-pygame.time.get_ticks())\/60000)+":"+str((90000-pygame.time.get_ticks())\/1000%60).zfill(2), True, (0,0,0))$/;"	kind:variable	line:119
+td_tag.py	../web_scraping/td_tag.py	1;"	kind:file	line:1
+text	../resources/game.py	/^    text = font.render("Accuracy: "+str(accuracy)+"%", True, (0,255,0))$/;"	kind:variable	line:194
+text	../resources/game.py	/^    text = font.render("Accuracy: "+str(accuracy)+"%", True, (255,0,0))$/;"	kind:variable	line:185
+textRect	../resources/game.py	/^    textRect = survivedtext.get_rect()$/;"	kind:variable	line:120
+textRect	../resources/game.py	/^    textRect = text.get_rect()$/;"	kind:variable	line:186
+textRect	../resources/game.py	/^    textRect = text.get_rect()$/;"	kind:variable	line:195
+ticks	../exos/ex1.py	/^ticks = time.time()$/;"	kind:variable	line:148
+tinylist	../exos/ex1.py	/^tinylist = [123, 'john']$/;"	kind:variable	line:51
+tool.py	../scrapy/tool.py	1;"	kind:file	line:1
+top	../exos/ex1.py	/^top = Tkinter.Tk()$/;"	kind:variable	line:4
+tuple	../exos/ex1.py	/^tuple = ( 'abcd', 786 , 2.23, 'john', 70.2  )$/;"	kind:variable	line:60
+type	../exos/xml_dom.py	/^   type = movie.getElementsByTagName('type')[0]$/;"	kind:variable	line:30
+url	../scrapy/demo.py	/^url = "https:\/\/app.scoledge.com\/signin"$/;"	kind:variable	line:9
+url	../web_scraping/download_iteration.py	/^    url = 'http:\/\/example.webscraping.com\/view\/-%d' % page$/;"	kind:variable	line:43
+url	../web_scraping/td_tag.py	/^url = 'http:\/\/example.webscraping.com\/view\/UnitedKingdom-239'$/;"	kind:variable	line:3
+values	../scrapy/demo.py	/^values={}$/;"	kind:variable	line:5
+var1	../exos/ex1.py	/^var1 = 'Hello World!'$/;"	kind:variable	line:125
+var2	../exos/ex1.py	/^var2 = "Python Programming"$/;"	kind:variable	line:126
+velx	../resources/game.py	/^        velx=math.cos(bullet[0])*10$/;"	kind:variable	line:70
+vely	../resources/game.py	/^        vely=math.sin(bullet[0])*10$/;"	kind:variable	line:71
+wait	../web_scraping/zhihu.py	/^    def wait(self, url):$/;"	kind:member	line:71
+win	../exos/ex6.py	/^win = curses.newwin(height, width, begin_y, begin_x)$/;"	kind:variable	line:27
+writeData	../scrapy/chatbar.py	/^    def writeData(self,contents):$/;"	kind:member	line:109
+writer	../BeautifulSoup.py	/^    writer = csv.writer(csv_file)$/;"	kind:variable	line:26
+writer	../euro_to_yuan.py	/^    writer = csv.writer(csv_file)$/;"	kind:variable	line:10
+xml_dom.py	../exos/xml_dom.py	1;"	kind:file	line:1
+xml_sax.py	../exos/xml_sax.py	1;"	kind:file	line:1
+youwin	../resources/game.py	/^youwin = pygame.image.load("resources\/images\/youwin.png")$/;"	kind:variable	line:34
+zhihu.py	../web_scraping/zhihu.py	1;"	kind:file	line:1

@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Throttle	../zhihu.py	/^class Throttle:$/;"	kind:class	line:62
+__init__	../zhihu.py	/^    def __init__(self, delay):$/;"	kind:member	line:65
+crawl_sitemap	../download_iteration.py	/^def crawl_sitemap(url):$/;"	kind:function	line:27
+download	../download_iteration.py	/^def download(url,user_agent='wswp',num_retries=2):$/;"	kind:function	line:11
+download	../zhihu.py	/^def download(url, headers, proxy, num_retries, data=None):$/;"	kind:function	line:82
+download_iteration.py	../download_iteration.py	1;"	kind:file	line:1
+get_links	../links.py	/^def get_links(html):$/;"	kind:function	line:20
+get_links	../zhihu.py	/^def get_links(html):$/;"	kind:function	line:128
+get_robots	../zhihu.py	/^def get_robots(url):$/;"	kind:function	line:119
+html	../download_iteration.py	/^    html = download(url)$/;"	kind:variable	line:44
+html	../td_tag.py	/^html = download(url)$/;"	kind:variable	line:4
+link_crawler	../links.py	/^def link_crawler(seed_url, link_regex):$/;"	kind:function	line:4
+link_crawler	../zhihu.py	/^def link_crawler(seed_url, link_regex=None, delay=5, max_depth=-1, max_urls=-1, headers=None, user_agent='wswp', proxy=None, num_retries=1):$/;"	kind:function	line:13
+links.py	../links.py	1;"	kind:file	line:1
+normalize	../zhihu.py	/^def normalize(seed_url, link):$/;"	kind:function	line:106
+same_domain	../zhihu.py	/^def same_domain(url1, url2):$/;"	kind:function	line:113
+td_tag.py	../td_tag.py	1;"	kind:file	line:1
+url	../download_iteration.py	/^    url = 'http:\/\/example.webscraping.com\/view\/-%d' % page$/;"	kind:variable	line:43
+url	../td_tag.py	/^url = 'http:\/\/example.webscraping.com\/view\/UnitedKingdom-239'$/;"	kind:variable	line:3
+wait	../zhihu.py	/^    def wait(self, url):$/;"	kind:member	line:71
+zhihu.py	../zhihu.py	1;"	kind:file	line:1
